@@ -1,1 +1,2 @@
 Este es el pimer archivo del repositorio base.
+Nueva linea de texto en rama nueva-caracteristica
